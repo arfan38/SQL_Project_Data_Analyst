@@ -16,4 +16,4 @@ WHERE
     salary_year_avg IS NOT NULL
 GROUP BY name
 ORDER BY company_avg_salary DESC
-LIMIT 30;
+LIMIT 25;

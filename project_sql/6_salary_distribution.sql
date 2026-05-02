@@ -1,5 +1,5 @@
 /*
-Quation: What is the salary distribution for Data Analyst roles?
+Question: What is the salary distribution for Data Analyst roles?
 - Group salaries into ranges (e.g., 50k–70k, 70k–90k, etc.)
 - Focus on roles with non-null salaries
 - Why? Provides insight into typical salary ranges and market spread, not just the top end
